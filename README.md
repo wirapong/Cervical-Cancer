@@ -10,3 +10,6 @@ Here is a summary of its key characteristics:
 •	Target Variables: There are four target variables typically used for classification tasks: Hinselmann, Schiller, Cytology, and Biopsy.
 •	Key Features: Attributes include Age, Number of Sexual Partners, First Sexual Intercourse, Number of Pregnancies, Smoking habits, Hormonal Contraceptive use, IUD use, and various STD diagnoses.
 This dataset is primarily used for classification tasks in the health and medicine domain, specifically to explore the correlation between risk factors and cervical cancer diagnosis.
+
+
+The original dataset: https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
