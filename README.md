@@ -13,3 +13,38 @@ This dataset is primarily used for classification tasks in the health and medici
 
 
 The original dataset: https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
+
+This dataset focuses on the prediction of indicators/diagnosis of cervical cancer. The features cover demographic information, habits, and historic medical records.
+Dataset Characteristics
+Multivariate
+
+Subject Area
+Health and Medicine
+
+Associated Tasks
+Classification
+
+Feature Type
+Integer, Real
+
+# Instances
+858
+
+# Features
+36
+
+Dataset Information
+Additional Information
+
+The dataset was collected at 'Hospital Universitario de Caracas' in Caracas, Venezuela. The dataset comprises demographic information, habits, and historic medical records of 858 patients. Several patients decided not to answer some of the questions because of privacy concerns (missing values).
+
+Creators
+1. Kelwin Fernandes
+2. Jaime Cardoso
+3. Jessica Fernandes
+
+https://doi.org/10.24432/C5Z310
+
+License
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
